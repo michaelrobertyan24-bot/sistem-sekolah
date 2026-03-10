@@ -7,7 +7,12 @@
     <link rel="stylesheet" href="../public/css/ouput.php">
 </head>
 <body>
-    <h1 class="text-red-900">Daftar Siswa</h1>
-    <p>Menampilkan daftar siswa</p>
+<header class="bg-blue-500">
+<div class="flex justify-between container mx-auto">
+<a href="/students">Sistem Sekolah</a>
+<a href="/students/create">+ Tambah Siswa</a>
+
+</div>
+</header>
 </body>
 </html>
